@@ -230,9 +230,20 @@
   
   .scrollH2{
   margin-left:0px;
-    width : 750px;
+    width : 900px;
+  }
+  
+  .love{
+  width:775px;
+}
+  
+  .EducationParagraph {
+  width : 900px;
   }
 
+  .EducationImage {
+  margin-top : 75px;
+  }
   .subTable1 {
     margin-right: 25px;
   }
