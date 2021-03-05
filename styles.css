@@ -179,6 +179,7 @@
   .nav-link {
     font-size: 2rem;
     font-family: 'Sacramento', cursive;
+    width: 200px;
   }
 
   .navbar-light .navbar-toggler-icon {
@@ -235,6 +236,8 @@
   
   .love{
   width:775px;
+    margin-left:0px;
+    margin-top: 15px;
 }
   
   .EducationParagraph {
@@ -242,10 +245,19 @@
   }
 
   .EducationImage {
-  margin-top : 75px;
+  margin-top : 45px;
   }
   .subTable1 {
     margin-right: 25px;
+  }
+  
+  .love2 {
+  margin-left: 160px;
+  }
+  
+  .love3{
+  width: 300px;
+    margin-right: 300px;
   }
 
   .TableClass {
