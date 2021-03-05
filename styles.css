@@ -1,0 +1,321 @@
+@media only screen and (min-width: 992px) {
+
+  /*Tag Selectors*/
+  body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+  }
+
+  img {
+    align-self: auto;
+  }
+
+  div, a {
+    margin: 0;
+    padding: 20px;
+    text-decoration: none;
+  }
+
+  h1 {
+    position: relative;
+    bottom: 90px;
+    margin: 50px auto auto auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+    font-weight: normal;
+  }
+
+  h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    margin: auto 42% auto 42%;
+  }
+
+  h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    margin: auto 1px auto 1px;
+  }
+
+  hr {
+    width: 3%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+  }
+
+  p {
+    font-family: 'Merriweather', serif;
+  }
+
+  section {
+    font-family: 'Sacramento', cursive;
+  }
+
+  /*Class Selectors*/
+  .Bottom-Cloud {
+    position: absolute;
+    left: 20%;
+    bottom: 40%;
+  }
+
+  .bottom-container {
+    background-color: #66BFBF;
+    width: 100%;
+  }
+
+  .doggie {
+    width: 100%;
+    padding: 0;
+    margin: auto;
+    border: 1px solid;
+  }
+
+  .row {
+    padding: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .features-box {
+    /* position: relative;
+  width: 100%;
+  min-height: 1px; */
+    padding: 5%;
+  }
+
+  .EndingNote {
+    color: white;
+  }
+
+  .EducationImage {
+    width: 25%;
+    margin: auto 30px auto auto;
+    float: left;
+  }
+
+  .ComputerImage {
+    width: 25%;
+    float: left;
+    margin: 40px 30px auto auto;
+  }
+
+  .grid-container {
+    display: inline;
+  }
+
+  .H2-Like {
+    position: relative;
+    bottom: 90px;
+    margin: auto 30% auto 30%;
+  }
+
+  .Intro {
+    font-family: 'Montserrat', sans-serif;
+    padding: inherit;
+  }
+
+  .mountain {
+    position: relative;
+    bottom: 3.5rem;
+    margin: auto;
+    height: 450px;
+    width: 600px;
+  }
+
+  .navbar {
+    margin-top: 0;
+    padding: 0 0 0 0.1rem;
+    position: fixed;
+    color: #66BFBF;
+  }
+
+  .navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 0;
+    color: #66BFBF;
+    padding: 0px;
+  }
+
+  .col-lg-6 {
+    padding: 7% 15%;
+    width: 50%;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto
+  }
+
+  .carousel-control-prev {
+    color: blue;
+  }
+
+  .carousel-item {
+    padding: 7% 15%;
+  }
+
+  .testimonialImage {
+    width: 50%;
+    margin: 0px;
+  }
+
+  .nav-item {
+    padding: 0 18px;
+    color: #66BFBF;
+    font-size: 2rem;
+    font-family: 'Sacramento', cursive;
+  }
+
+  .nav-link {
+    font-size: 2rem;
+    font-family: 'Sacramento', cursive;
+  }
+
+  .navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;..");
+  }
+
+  .navbar-nav {
+    margin-left: 1000px;
+    ;
+  }
+
+  .container-fluid {
+    padding: 0 15% 2% 2%;
+    margin-top: 0;
+    margin: 0;
+  }
+
+  /* .naviBar{
+    position: fixed;
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+  } */
+  .tabla {
+    padding: inherit;
+    margin: 2px;
+  }
+
+  .profile {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: center;
+  }
+
+  .skill-row {
+    width: 70%;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    margin: 90px auto 90px auto;
+    text-align: left;
+    line-height: 2;
+  }
+
+  .SkillsImage {
+    width: 25%;
+    float: right;
+    margin: 40px auto auto 30px;
+  }
+
+  .subTable1 {
+    margin-right: 25px;
+  }
+
+  .TableClass {
+    text-decoration: inherit;
+  }
+
+  .top-container {
+    padding-top: 180px;
+    background-color: #E4F9F5;
+  }
+
+  .Top-Cloud {
+    position: absolute;
+    right: 20%;
+    top: 10%;
+  }
+
+  /*Contact me Button Selector*/
+  .footer-link {
+    color: black;
+  }
+
+  .btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc48d);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc48d);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc48d);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc48d);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc48d);
+    text-decoration: none;
+  }
+
+  /*
+ID Selectors
+  */
+  #features {
+    font-family: "Montserrat", sans-serif;
+    padding: 7% 15%;
+    text-align: center;
+    margin: 0;
+  }
+
+  #title {
+    background-color: #E4F9F5;
+  }
+
+  #testimonials {
+    background-color: #E4F9F5;
+  }
+
+  .cardView {
+    width: 60%;
+    height: auto;
+  }
+
+  .card-img-top {
+    align-self: center;
+    width: 70%;
+  }
+
+  .card {
+    margin: 10px;
+  }
+
+  .active {
+    padding: 0px;
+    size: 25px;
+  }
+
+  #LoL {
+    width: 35%;
+  }
+}
