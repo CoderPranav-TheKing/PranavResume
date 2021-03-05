@@ -227,6 +227,11 @@
     float: right;
     margin: 40px auto auto 30px;
   }
+  
+  .scrollH2{
+  margin-left:0px;
+    width : 750px;
+  }
 
   .subTable1 {
     margin-right: 25px;
